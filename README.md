@@ -1,0 +1,1 @@
+This is chris-hs-chung's first Git project!
